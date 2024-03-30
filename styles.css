@@ -1,0 +1,94 @@
+.r
+{
+    size: 10px;
+    height: 100px;
+    width : 100px;
+    align-items: center;
+}
+.ar
+{
+    size: 10px;
+    height: 100px;
+    width : 100px;
+    align-items: center;}
+li{
+    align-items: center;
+    float: left;
+}
+.pressed{
+  
+        box-shadow: 0 0 20px white;
+        background-color: grey;
+      }
+body{
+    background-color: red;
+
+    background-image: url("./images/bg.jpg");
+    background-size: cover;
+
+}
+.lv1{
+ 
+        
+        background-image: url("./images/lv5.gif");
+        background-size: cover;
+        font-family: kalam;
+        font-weight: 900;
+      
+}
+.lv3
+{
+    background-image: url("./images/lv10.gif");
+        background-size: cover;
+
+}
+.lv5
+{
+    background-image: url("./images/lv15.gif");
+    background-size: cover;
+}
+h1{
+    font-family: kalam;
+   color: red;
+    font-weight: 900;
+    text-align: center;
+    
+   
+    }
+   p
+   {
+    color:#cbf078; 
+    font-family: Workbench;
+   }
+
+h2{
+font-family:Silkscreen
+;
+color: #fff2be;
+
+
+;
+}
+h3,h4
+{ 
+    font-family: Workbench;
+    color: #ffdd05;
+    font-weight: 500;
+}
+li
+{
+    text-align: center;
+    color :#efddb2;
+    font-weight: 900;
+    ;
+
+
+}
+
+
+footer{
+color : #efddb2;
+text-align: center;
+font-weight: 900;
+font-family: Kalam;
+}
